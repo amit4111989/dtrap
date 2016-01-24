@@ -1,0 +1,3 @@
+bird flu,\\b(bird flu)\\b
+avian flu,\\b(avian flu)\\b
+cabin fever,\\b(cabin fever)\\b

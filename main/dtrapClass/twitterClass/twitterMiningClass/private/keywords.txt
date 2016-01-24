@@ -1,0 +1,14 @@
+fever,\\bfever\\b
+headache,\\bheadache\\b
+vomit,\\bvomit*
+food poisoning,\\bfood poisoning\\b
+nausea,\\bnausea*
+ibuprofen,\\bibuprofen\\b
+nyquil,\\bnyquil\\b
+tylenol,\\btylenol\\b
+flu,\bflu\b
+cough,\bcough\b
+stomach ache,\bstomach ache\b
+asthma,\basthma\b
+migrane,\bmigrane\b
+yellow fever,\\byellow fever\\b

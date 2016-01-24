@@ -1,0 +1,11 @@
+alcoholics:alcohol,0.6#drinking,0.15#beer,0.65#booze,0.7#byob,0.6#drunk,0.8#love beer,0.7#vodka,0.3#shots,0.3#tipsy,0.6#tipsy tuesday,0.7#thirsty thursday,0.6#party,0.3
+travelling:travelling,0.6#airport,0.3#plane,0.3#flight,0.5#boarding,0.7#pack,0.2#luggage,0.4#taking vacation,0.7#vacation,0.3#on vacation,0.65#trip,0.4#road trippin,0.5#road trip,0.6#travel,0.6#holiday,0.2#flying,0.4#relaxing,0.2#taking off,0.3#long holiday,0.4#tourist,0.2
+stress:stress,0.7#tension,0.7#pressure,0.3#stressed out,0.6#tired,0.6
+pregnancy:pregnant,0.5#expecting,0.2#sonography,0.4#labor,0.3#hospital,0.15#fetus,0.2#weeks pregnant,0.6#months pregnant,0.6#prego,0.5#ultrasound,0.4#expecting,0.1#babygirl,0.3#my baby,0.15#healthy,0.15#born,0.2#delivery,0.35#boy,0.05#girl,0.05#belly,0.2#big,0.05#morning sickness,0.6#cravings,0.2#toys,0.15#maternity clothes,0.6#maternity,0.3#kid,0.2#child,0.1
+polluted_area:polluted,0.2#messy,0.6#bad hygiene,0.5#river pollution,0.6#air pollution,0.4#dirty,0.15#not clean,0.3#smells,0.05#bad smell,0.15#garbage,0.05#dump,0.05#need to clean,0.55#trash,0.05#stink,0.2#disinfectant,0.3#germs,0.2#cleaning,0.15
+parenting:my child,0.2,0.#my son,0.5,0.#my daughter,0.5#crying baby,0.4#sleepless,0.6#diaper,0.6#poor baby,20.#baby food,0.4#babysitter,0.2#nanny,0.3#my baby,0.4#vaccine,0.3#munchkin,0.15#playschool,0.4#kid park,0.3#my toddler,0.55#potty,0.4#twins,0.15#toys,0.15#mommy,0.55#daddy,0.2#craddle,0.6#mama,0.35#my kid,0.35#mother,0.15#father,0.15#papa,0.35#daddy,0.05#teether,0.3#new parent,0.45#new born,0.5
+coldWeather:freezing,0.3#cold outside,0.7#extreme cold,0.3#snowing,0.5#cold weather,0.55#wind chill,0.3#minus,0.15#too cold,0.2#jacket,0.2#chilly,0.2#frost bite,0.5#windy,0.2#hailstorm,0.3
+drugs:weed,0.4#joint,0.55#smoke,0.3#smoke weed,0.6#marijuna,0.3#illegal,0.15#smoke pot,0.6#bong ,0.2#blunt,0.2#molly,0.2#poppin molly,0.55#poppin pills,0.5#hotbox,0.5
+exam_week:finals,0.2#surviving finals,0.5#midterms,0.35#test,0.3#studying,0.2#exam,0.15#syllabus,0.2#course,0.2#final exam,0.3#chapter,0.1#all nighter,0.2#stress,0.2#final project,0.2#studies,0.1#study,0.1#dead week,0.3
+hiking:hiking,0.4#tent,0.2#trail,0.2#mountains,0.2#cliff,0.2#hike,0.5
+insomnia:insomnia,0.2#insomniac,0.3#sleepless,0.2#sleeplessness,0.1#cant sleep,0.3#need sleep,0.3#sleepless nights,0.2#counting sheep,0.3#nocturnal,0.1
